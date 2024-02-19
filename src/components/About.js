@@ -1,3 +1,5 @@
+import {image} from '../data/user'
+
 const About = () => {
 	return (
 		<div id='about'>
@@ -7,3 +9,5 @@ const About = () => {
 		</div>
 	)
 }
+
+export default About

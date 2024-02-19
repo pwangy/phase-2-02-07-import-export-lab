@@ -1,3 +1,5 @@
+import { username, city} from '../data/user'
+
 const Home = () => {
 	return (
 		<div id='home'>
@@ -7,3 +9,5 @@ const Home = () => {
 		</div>
 	)
 }
+
+export default Home
