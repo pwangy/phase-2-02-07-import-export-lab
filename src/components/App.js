@@ -1,4 +1,4 @@
-function App() {
+export default App = () => {
 	return (
 		<div>
 			<NavBar />
@@ -7,5 +7,3 @@ function App() {
 		</div>
 	)
 }
-
-export default App
